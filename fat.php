@@ -26,5 +26,5 @@ if(!empty($email && $password)) {
 		echo "\e[1;31mAnda belum memasukan data!\n\e[1;0m";
 	}
 }
-echo fat($email, $password);
+fat($email, $password);
 ?>
