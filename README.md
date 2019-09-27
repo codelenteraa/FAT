@@ -1,2 +1,2 @@
 # Facebook Access Token
-Get Access token with php cli
+Get Access Token with php CLI
